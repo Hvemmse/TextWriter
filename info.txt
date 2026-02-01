@@ -1,0 +1,21 @@
+Hej alle!
+
+Dette er en lille test af en Notepad-app med smarte funktioner.
+
+Hvis du bare mangler noget, der svarer til blyant og papir, kan denne Neo/Matrix-inspirerede app hjælpe dig med at skrive dine noter ned.
+
+Du starter blot appen, og der bliver automatisk oprettet en fil med navnet log.txt.
+Herefter kan du bare skrive løs og hygge dig.
+
+Du kan notere tanker, idéer og alt muligt andet – og når du lukker appen, bliver det hele automatisk gemt i log.txt.
+
+Genvejstaster:
+
+Ctrl + D indsætter dato
+
+Ctrl + T indsætter klokkeslæt
+
+Du kan også markere din tekst og kopiere den over i ChatGPT for at få lavet en historie ud af den.
+
+Bare skriv frit – helt uden pynt og planlægning.
+
